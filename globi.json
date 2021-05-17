@@ -1,5 +1,7 @@
 {
   "format": "dwca", 
   "citation": "The MSB Division of Parasitology Collection",
-  "url": "http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_host" 
+  "url": "http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_host",
+  "deprecated": true,
+  "_comment": "This GloBI index configuration has been deprecated in favor of the MSB Para collection. The MSB Para collection depends on MSB Host collection and their linked records are being indexed via the MSB Para configuration"
 }
